@@ -58,13 +58,12 @@ REFLECTION:It is really an awesome experience for me to attend this NALI exhibit
 
 ###> Video:https://github.com/Mlrn206/EPORT/assets/147963500/0ddb2371-25b0-4f4e-8c36-be4a05d245a2
 
+ASSIGNMENT 2: UTM DIGITAL
 
-<p>Industry Visit 2: UTM DIGITAL</p>
-				<img src="  c:\Users\MELODY LUI\Downloads\Poster Talk on UTMDigital.jpeg"
 
-				<p>As a year 1 student from SECRH , i'm very appreciated having this golden oppurtunity to attend this virtual talk and industry visit to UTM Digital. On 5.12.2023, we had a virtual talk on UTM DIGITAL- OUR DIGITAL UNIVERSITY DRIVER from 3-5pm via Webex. The speaker,Mr Helmee bin Yaacob and his colleagues were delivering a fanstatic informative talk to all of us. It is really awesome! What we gained from the talk is UTM ID and know the ICT service for students.Besides, DIGITAL ARCHITECTURE, DIGITAL STRATEGY, AND DIGITAL INNOVATION ARE THE THREE PRIMARY DIVISIONS THAT MAKE UP UTM DIGITAL. DURING THE FIRST SESSION, MS. ALINDA BINTI MOHAMED ARIS DISCUSSED THE FUNDAMENTAL DUTIES OF UTM DIGITAL SERVICES WITH A PARTICULAR FOCUS ON THE CREATION OF TECHNOLOGICAL PLATFORMS AND APPLICATIONS. IN THE FOLLOWING SECTION. THE SPEAKER, TS.MR. MOHAMMED BIN MOHD HASNI GAVE A SUMMARY OF THE UTM DATA CENTER'S INFRASTRUCTURE AND CONSTRUCTION PROJECTS FROM 2008 TO 2019 by highlighting its standards WHICH INCLUDE PLENTY OF SPACE and STRONG SECURITY. Furthermore, On 11.12.2023, we had an industry visit to UTM Digital in Skudai, Johor. On that day, we were welcomed by some senior IT officers who are Madam Diniha Miskam and Madam Aslinda. All of the staff were extremely amiable to us. We had approximately 70 people who took part in it in order to know more about how UTM Digital works. Then, our group had an interview session with Encik Muhammad Syafiq who is a IT Officer that develop UTM SMART. Moreover,I have learned about their companies' background and the distributions they made in this technology era.
+	As a year 1 student from SECRH , i'm very appreciated having this golden oppurtunity to attend this virtual talk and industry visit to UTM Digital. On 5.12.2023, we had a virtual talk on UTM DIGITAL- OUR DIGITAL UNIVERSITY DRIVER from 3-5pm via Webex. The speaker,Mr Helmee bin Yaacob and his colleagues were delivering a fanstatic informative talk to all of us. It is really awesome! What we gained from the talk is UTM ID and know the ICT service for students.Besides, DIGITAL ARCHITECTURE, DIGITAL STRATEGY, AND DIGITAL INNOVATION ARE THE THREE PRIMARY DIVISIONS THAT MAKE UP UTM DIGITAL.DURING THE FIRST SESSION, MS. ALINDA BINTI MOHAMED ARIS DISCUSSED THE FUNDAMENTAL DUTIES OF UTM DIGITAL SERVICES WITH A PARTICULAR FOCUS ON THE CREATION OF TECHNOLOGICAL PLATFORMS AND APPLICATIONS.IN THE FOLLOWING SECTION. THE SPEAKER, TS.MR. MOHAMMED BIN MOHD HASNI GAVE A SUMMARY OF THE UTM DATA CENTER'S INFRASTRUCTURE AND CONSTRUCTION PROJECTS FROM 2008 TO 2019 by highlighting its standards WHICH INCLUDE PLENTY OF SPACE and STRONG SECURITY. Furthermore, On 11.12.2023, we had an industry visit to UTM Digital in Skudai, Johor. On that day, we were welcomed by some senior IT officers who are Madam Diniha Miskam and Madam Aslinda. All of the staff were extremely amiable to us. We had approximately 70 people who took part in it in order to know more about how UTM Digital works. Then, our group had an interview session with Encik Muhammad Syafiq who is a IT Officer that develop UTM SMART. Moreover,I have learned about their companies' background and the distributions they made in this technology era.
 				
-					REFLECTION:
+	REFLECTION:
 					1) DO THE ACTIVITIES GIVE BENEFIT TO STUDENT?
 					Interacting with professionals during industry visits can enhance students' communication and interpersonal skills.It builds a network within the industry of interest among students and fosters a more comprehensive understanding of the subject matter.
 					2)HOW DO THESE ACTIVITIES IMPACT ON THE OUTCOME OF THE COURSE?
@@ -74,17 +73,12 @@ REFLECTION:It is really an awesome experience for me to attend this NALI exhibit
                     4)DO YOU FEEL THAT VISITING THE ORGANIZATION AND ATTENDING THE TALK HELPS YOU LEARN THE COURSE MATERIAL BETTER? PROVIDE JUSTIFICATIONS.
 					Yes. The industry visit provided a holistic learning experience, allowing students to see the bigger picture beyond lectures. This definitely give us an exposure towards our TIS course. It is not only can bridge the gap between knowledge but also enhancing the practical application.
                     5) DO THE ACTIVITIES SPARK EXCITEMENT IN THE STUDENT?
-					 Those activities offered real-world examples that can spark interest and enthusiasm among students. For example, the Q&A sessions during visit and talk allow students to clarify doubts and obtain a deeper understanding. Moreover,  this visit offered  a different learning experience can be refreshing. So,  it enhances engagement and excitement in the learning process. </p>
+					 Those activities offered real-world examples that can spark interest and enthusiasm among students. For example, the Q&A sessions during visit and talk allow students to clarify doubts and obtain a deeper understanding. Moreover,  this visit offered  a different learning experience can be refreshing. So,  it enhances engagement and excitement in the learning process. 
 
 
 					
-				</P>
-                <video width="420" height="340" controls>
-					<source src="images/vI.mp4" type=" c:\Users\MELODY LUI\Downloads\Telegram Desktop\video tis.mp4"></video>
-
+				
 					
-
-
 
 
 
