@@ -21,10 +21,11 @@ The main point that wanted to deliver to us is ICT jobs scope. For instance, tho
 					 
 # Assignment 3  : Report
 #< INDUSTRY TALK 2: System Development @ Credence>
-##> Report:  [report 3.pdf](https://github.com/Mlrn206/EPORT/files/13897459/report.3.pdf)
+####> Report:  [report 3.pdf](https://github.com/Mlrn206/EPORT/files/13897459/report.3.pdf)
 
-###--> PC Assemble
+##--> PC Assemble
 ![PC](https://github.com/Mlrn206/EPORT/assets/147963500/5b499431-7d45-4af3-8c0a-09cae039b702)
+
 On 30.10.2023, we as group 11 have a hands-on session to do assemble and reassemble a PC. After the guidance of the assistant, we are able to assemble and reassemble the PC successfully. For me, it was my first time to see how a PC is built up. At the same time, I have learnt and remember the step of assemble and reassemble a PC. It was really fantastic to do this task since I never expect I will make it in one day. 
 
 
