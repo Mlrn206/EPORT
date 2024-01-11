@@ -4,6 +4,8 @@
 
 # < Overview of ICT Jobs >
 ![Overview of ICT Jobs](https://github.com/Mlrn206/EPORT/assets/147963500/2720f986-0d28-408b-b985-e59fe832dc71)
+
+
 Section 1 of TIS had attend a virtual industry talk about an overview of ICT jobs hosted by Mr. Yee and his colleagues. 
 The main point that wanted to deliver to us is ICT jobs scope. For instance, those UI and UX designer used Figma to design, Slack for communication and Phrase to do translate language. Not just this, numeric challenges such as finding balance between work and studies need to be confronted. That’s is what life called. By attending this informative talk, I got a better understanding about ICT. it unlocks treasury of information by empowering people with key to fiscal wisdom, securing a brighter future in industry.
 
@@ -84,3 +86,6 @@ REFLECTION:It is really an awesome experience for me to attend this NALI exhibit
 
 ###> Video:https://github.com/Mlrn206/EPORT/assets/147963500/0ddb2371-25b0-4f4e-8c36-be4a05d245a2
 
+# REFLECTIONS
+##-> Assignment 1: Poster
+####
