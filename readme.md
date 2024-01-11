@@ -88,7 +88,7 @@ Yes. The industry visit provided a holistic learning experience, allowing studen
  Those activities offered real-world examples that can spark interest and enthusiasm among students. For example, the Q&A sessions during visit and talk allow students to clarify doubts and obtain a deeper understanding. Moreover,  this visit offered  a different learning experience can be refreshing. So,  it enhances engagement and excitement in the learning process.
 
 ## --> Assignment 3 : Report
-####  This report
+####  For me, I would like to always be updated on the latest technologies and trends in system development by participating some related communities in the next 4 years. By joining some computer science and system development activities, I am able to gain handson experience and sharpen my weaknesses
 
 
 ## --> PC Assemble
