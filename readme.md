@@ -17,7 +17,7 @@ The main point that wanted to deliver to us is ICT jobs scope. For instance, tho
 #### Video : https://youtu.be/ifQpbetzbc8
 
 
- ![VIRTUAL TALK](<Poster Talk on UTMDigital.jpeg>)			
+		
  As a year 1 student from SECRH , i'm very appreciated having this golden oppurtunity to attend this virtual talk and industry visit to UTM Digital. On 5.12.2023, we had a virtual talk on UTM DIGITAL- OUR DIGITAL UNIVERSITY DRIVER from 3-5pm via Webex. The speaker,Mr Helmee bin Yaacob and his colleagues were delivering a fanstatic informative talk to all of us. It is really awesome! What we gained from the talk is UTM ID and know the ICT service for students.Besides, DIGITAL ARCHITECTURE, DIGITAL STRATEGY, AND DIGITAL INNOVATION ARE THE THREE PRIMARY DIVISIONS THAT MAKE UP UTM DIGITAL.DURING THE FIRST SESSION, MS. ALINDA BINTI MOHAMED ARIS DISCUSSED THE FUNDAMENTAL DUTIES OF UTM DIGITAL SERVICES WITH A PARTICULAR FOCUS ON THE CREATION OF TECHNOLOGICAL PLATFORMS AND APPLICATIONS.IN THE FOLLOWING SECTION. THE SPEAKER, TS.MR. MOHAMMED BIN MOHD HASNI GAVE A SUMMARY OF THE UTM DATA CENTER'S INFRASTRUCTURE AND CONSTRUCTION PROJECTS FROM 2008 TO 2019 by highlighting its standards WHICH INCLUDE PLENTY OF SPACE and STRONG SECURITY. Furthermore, On 11.12.2023, we had an industry visit to UTM Digital in Skudai, Johor. On that day, we were welcomed by some senior IT officers who are Madam Diniha Miskam and Madam Aslinda. All of the staff were extremely amiable to us. We had approximately 70 people who took part in it in order to know more about how UTM Digital works. Then, our group had an interview session with Encik Muhammad Syafiq who is a IT Officer that develop UTM SMART. Moreover,I have learned about their companies' background and the distributions they made in this technology era.
 	
 					 
@@ -25,20 +25,33 @@ The main point that wanted to deliver to us is ICT jobs scope. For instance, tho
 ####< INDUSTRY TALK 2: System Development @ Credence>
 ####> Report:  [report 3.pdf](https://github.com/Mlrn206/EPORT/files/13897459/report.3.pdf)
 
-##--> PC Assemble
+
+
+## Assignment 4  : Newsletter
+
+[ASSIGNMENT 4 (newsletter).pdf](https://github.com/Mlrn206/EPORT/files/14039864/ASSIGNMENT.4.newsletter.pdf)
+
+
+## --> PC Assemble
 ![PC](https://github.com/Mlrn206/EPORT/assets/147963500/5b499431-7d45-4af3-8c0a-09cae039b702)
 
 On 30.10.2023, we as group 11 have a hands-on session to do assemble and reassemble a PC. After the guidance of the assistant, we are able to assemble and reassemble the PC successfully. For me, it was my first time to see how a PC is built up. At the same time, I have learnt and remember the step of assemble and reassemble a PC. It was really fantastic to do this task since I never expect I will make it in one day. 
 
 
 
-##--> Design Thinking
+## -->  Design Thinking
 #### > Report :[paling latest tis report.docx](https://github.com/Mlrn206/EPORT/files/13509426/paling.latest.tis.report.docx)
 
 #### > Video：https://youtu.be/VKBdhymcaLQ?feature=shared
 
 Design Thinking is process that creating some new and innovative ideas and solving problems. It focuses on humans needs and will come up with effective solutions to meet those needs. It also can improve the products by analyzing and understanding how users interact with products and investigating the conditions in which they operate. In Design Thinking process has five phases that are Empathize, Define, Ideate, Prototype and Test.
- ![ds](https://github.com/Mlrn206/EPORT/assets/147963500/6c6cf1e6-5b2d-41df-8a9e-ef4dded4520a)
+
+<p align="center">
+  <img width="400" height="400" src=" ![ds](https://github.com/Mlrn206/EPORT/assets/147963500/6c6cf1e6-5b2d-41df-8a9e-ef4dded4520a)  ">
+</p>
+
+ 
+ 
 
  At first, it was really difficult for us to do this task as we have no idea about it at all. After some guidance from Puan Azurah, we gained some directions and goals to settle this task. 
 
@@ -68,6 +81,8 @@ Moreover, the team members from 4 different school of engineering have their dif
 
 ### > Video:https://github.com/Mlrn206/EPORT/assets/147963500/0ddb2371-25b0-4f4e-8c36-be4a05d245a2
 
+
+
 # REFLECTIONS
 ## --> Assignment 1: Poster
 #### What I gained from this talk is time management. We as students need time to do revision since we have a myriad of quizzes and tests. At the same time, joining activity of cocurricular is vital for us to get merits too. Hence, our time management need to be well so that time will not be wasted. Besides, we need to put effort in completing our group assignment. Throughout this, some values such as teamwork, responsibility and hardworking can be implemented.  Nowadays, ICT contributes economic growth by generating employment opportunities. As technology keep advancing, there is an increasing demand for ICT jobs such as data analyst. Hence, ICT sector in industry will be enlarge from time to time.
@@ -91,6 +106,10 @@ Yes. The industry visit provided a holistic learning experience, allowing studen
 
 ## --> Assignment 3 : Report
 ####  For me, I would like to always be updated on the latest technologies and trends in system development by participating some related communities in the next 4 years. By joining some computer science and system development activities, I am able to gain handson experience and sharpen my weaknesses
+
+## --> Assignment 4 : Newsletter
+#### By developing technology in human life, it will not only enhance the overall well-being and quality of life for individuals but also contributing towards the economic growth of our country. For example, I-Farm. This talk had motivated me that no matter how little our power is, as long as we take action, we will definitely bring changes to our lives. Next, innovation in various sectors, especially the environmental. It is because it can minimizes the environmental footprint compared to traditional agriculture. Consequently , it can collectively contribute to a more sustainable, resilient, and consumer-friendly approach in order to providing fresh products , positively impacting human life in terms of health, convenience, and environmental sustainability.
+
 
 
 ## --> PC Assemble
