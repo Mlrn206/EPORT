@@ -3,16 +3,23 @@
 ## -> Assignment 1 : Poster
 
 # < Overview of ICT Jobs >
-![Overview of ICT Jobs](https://github.com/Mlrn206/EPORT/assets/147963500/2720f986-0d28-408b-b985-e59fe832dc71)
+<p align="center">
+  <img width="650" height="800" src="https://github.com/Mlrn206/EPORT/assets/147963500/2720f986-0d28-408b-b985-e59fe832dc71 ">
+</p>
+
 
 
 Section 1 of TIS had attend a virtual industry talk about an overview of ICT jobs hosted by Mr. Yee and his colleagues. 
 The main point that wanted to deliver to us is ICT jobs scope. For instance, those UI and UX designer used Figma to design, Slack for communication and Phrase to do translate language. Not just this, numeric challenges such as finding balance between work and studies need to be confronted. That’s is what life called. By attending this informative talk, I got a better understanding about ICT. it unlocks treasury of information by empowering people with key to fiscal wisdom, securing a brighter future in industry.
 
-![industrial talk 1](https://github.com/Mlrn206/EPORT/assets/147963500/a71276de-2413-491a-9f58-b0a98581345d)
+
+<p align="center">
+  <img width="450" height="550" src="https://github.com/Mlrn206/EPORT/assets/147963500/a71276de-2413-491a-9f58-b0a98581345d  ">
+</p>
 
 
-##-> Assignment 2 : Video
+
+## --> Assignment 2 : Video
 #### < INDUSTRY VISIT : UTM DIGITAL>
 #### Video : https://youtu.be/ifQpbetzbc8
 
@@ -22,8 +29,8 @@ The main point that wanted to deliver to us is ICT jobs scope. For instance, tho
 	
 					 
 ## Assignment 3  : Report
-####< INDUSTRY TALK 2: System Development @ Credence>
-####> Report:  [report 3.pdf](https://github.com/Mlrn206/EPORT/files/13897459/report.3.pdf)
+#### < INDUSTRY TALK 2: System Development @ Credence>
+#### > Report:  [report 3.pdf](https://github.com/Mlrn206/EPORT/files/13897459/report.3.pdf)
 
 
 
@@ -33,7 +40,11 @@ The main point that wanted to deliver to us is ICT jobs scope. For instance, tho
 
 
 ## --> PC Assemble
-![PC](https://github.com/Mlrn206/EPORT/assets/147963500/5b499431-7d45-4af3-8c0a-09cae039b702)
+
+<p align="center">
+  <img width="400" height="500" src="https://github.com/Mlrn206/EPORT/assets/147963500/5b499431-7d45-4af3-8c0a-09cae039b702">
+</p>
+
 
 On 30.10.2023, we as group 11 have a hands-on session to do assemble and reassemble a PC. After the guidance of the assistant, we are able to assemble and reassemble the PC successfully. For me, it was my first time to see how a PC is built up. At the same time, I have learnt and remember the step of assemble and reassemble a PC. It was really fantastic to do this task since I never expect I will make it in one day. 
 
@@ -47,7 +58,7 @@ On 30.10.2023, we as group 11 have a hands-on session to do assemble and reassem
 Design Thinking is process that creating some new and innovative ideas and solving problems. It focuses on humans needs and will come up with effective solutions to meet those needs. It also can improve the products by analyzing and understanding how users interact with products and investigating the conditions in which they operate. In Design Thinking process has five phases that are Empathize, Define, Ideate, Prototype and Test.
 
 <p align="center">
-  <img width="400" height="400" src=" ![ds](https://github.com/Mlrn206/EPORT/assets/147963500/6c6cf1e6-5b2d-41df-8a9e-ef4dded4520a)  ">
+  <img width="400" height="400" src="https://github.com/Mlrn206/EPORT/assets/147963500/6c6cf1e6-5b2d-41df-8a9e-ef4dded4520a ">
 </p>
 
  
@@ -59,12 +70,22 @@ Design Thinking is process that creating some new and innovative ideas and solvi
 
 
  ## --> NALI 2023
-![NALI](https://github.com/Mlrn206/EPORT/assets/147963500/d241f3db-32f4-42ed-a8cb-b5f2d4f63d30)
+ 
+ <p align="center">
+  <img width="600" height="700" src="https://github.com/Mlrn206/EPORT/assets/147963500/d241f3db-32f4-42ed-a8cb-b5f2d4f63d30 ">
+</p>
+
+ 
+
 On 6,7 and 8 November 2023, New Academia Learning Innovation (NALI) held an exhibition at Dewan Sultan Iskandar, UTM Johor Bahru. My friends and I visited this exhibition on day 2. Throughout this exhibition, we gained an insight on the innovation products in teaching and learning. Every booth has its unique ideas and learning models. Some examples of booth that we visited such as Virtual Lab and Thai MOOC. Those booths are really fascinating since they make us have an eye-opener towards future trends. This provides a platform for NALI practitioners to share and present their research findings and innovations findings to public in NALI fields.
 
 We managed to interview 3 booths in NALI which is Virtual Lab, Thai MOOC and the NXT Prime. We are able to obtain lots of information about their exhibition goals. First and foremost, we went to Virtual Lab which is held by UTM CDex. The aim is to innovating student’s lab experience in order to empower students with creative skills. This booth enables educators to reimagine their laboratories through immersive online stimulations so that they can solve real-world problems. Using VR as the main tool to guide participants during the booth is interesting. The features included 360 virtual tour, interactive contents and customized platform. It was totally developing the newest and latest trends nowadays. For example, I joined the hands-on session with the Virtual Lab in order to have better understanding about VR.
-![MEL VR](https://github.com/Mlrn206/EPORT/assets/147963500/913b33f2-855d-41dd-9736-7bbd6be3a59c)
-![VR](https://github.com/Mlrn206/EPORT/assets/147963500/b9b3797f-53ab-4057-b810-abd8788e0620)
+
+<p align="center">
+  <img width="300" src="https://github.com/Mlrn206/EPORT/assets/147963500/913b33f2-855d-41dd-9736-7bbd6be3a59c">
+  <img width="300" src="https://github.com/Mlrn206/EPORT/assets/147963500/b9b3797f-53ab-4057-b810-abd8788e0620">
+</p>
+
 #### > video:https://github.com/Mlrn206/EPORT/assets/147963500/8d239ad6-2478-4fb8-8ac4-2a9bf7be9452
 
 Furthermore, Thai MOOC is a digital lifelong learning platform. It provides an E-learning service catering to people from diverse educational by using Inter-University Network which is known as UniNet. This is able to enhance accessibility to tertiary education. Thai MOOC’s goal is to foster a knowledge-based society by creating a strong foundation to everyone. What I learnt from this booth is live and learn no matter how old you are.
