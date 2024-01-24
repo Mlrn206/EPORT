@@ -89,16 +89,24 @@ We managed to interview 3 booths in NALI which is Virtual Lab, Thai MOOC and the
 #### > video:https://github.com/Mlrn206/EPORT/assets/147963500/8d239ad6-2478-4fb8-8ac4-2a9bf7be9452
 
 Furthermore, Thai MOOC is a digital lifelong learning platform. It provides an E-learning service catering to people from diverse educational by using Inter-University Network which is known as UniNet. This is able to enhance accessibility to tertiary education. Thai MOOC’s goal is to foster a knowledge-based society by creating a strong foundation to everyone. What I learnt from this booth is live and learn no matter how old you are.
-![THAAIMO](https://github.com/Mlrn206/EPORT/assets/147963500/53a82687-754b-4b29-9286-04c96f413c53)
-![THAIMO2](https://github.com/Mlrn206/EPORT/assets/147963500/181c0a75-3f6c-4513-91d4-ed3b94fd4ee4)
+
+<p align="center">
+  <img width="500" height="400"  src="https://github.com/Mlrn206/EPORT/assets/147963500/53a82687-754b-4b29-9286-04c96f413c53">
+  <img width="300" height="400"  src="https://github.com/Mlrn206/EPORT/assets/147963500/181c0a75-3f6c-4513-91d4-ed3b94fd4ee4">
+</p>
+
 
 Lastly, we visited to a booth that exhibited a mini-industry named NXT Prime Burger Factory. This module is developed for students regarding the elements of Industry Revolution (IR 4.0).  It is a combination of Lego Spike Prime Education and Lego Mindstorms NXT as a stimulation of the teaching and learning process for RBT subjects in nutrition technology. This is designed to show a real simulation of food processing in order to achieve better learning objectives in an effective way. This module totally expands the knowledge of PISMP RBT about the basic components such as sensors to students. 
 Moreover, the team members from 4 different school of engineering have their different roles when they have to work as a team and conduct this project. As a result, all of the 15 groups from this project are completed successfully their robotic project above-average marks. This showed that team members with different personality types worked well together in an interdisciplinary project. The results also showed that personality inventories can be used as an academic guidance tool in forming effective teams.
 
+<p align="center">
+  <img width="500" height="500"  src="https://github.com/Mlrn206/EPORT/assets/147963500/6209066a-5bd5-4018-a76b-cf16b6f9f9f3">
+  <img width="300" height="500"  src="https://github.com/Mlrn206/EPORT/assets/147963500/762ed79b-c0b2-41c0-9675-6194b5575ff6">
+</p>
 
 
-![BURGER](https://github.com/Mlrn206/EPORT/assets/147963500/6209066a-5bd5-4018-a76b-cf16b6f9f9f3)
-![BURGER2](https://github.com/Mlrn206/EPORT/assets/147963500/762ed79b-c0b2-41c0-9675-6194b5575ff6)
+
+
 
 ### > Video:https://github.com/Mlrn206/EPORT/assets/147963500/0ddb2371-25b0-4f4e-8c36-be4a05d245a2
 
@@ -113,16 +121,17 @@ Moreover, the team members from 4 different school of engineering have their dif
 ####  1) DO THE ACTIVITIES GIVE BENEFIT TO STUDENT?
 Interacting with professionals during industry visits can enhance students' communication and interpersonal skills.It builds a network within the industry of interest among students and fosters a more comprehensive understanding of the subject matter.
 
-2)HOW DO THESE ACTIVITIES IMPACT ON THE OUTCOME OF THE COURSE?
+#### 2)HOW DO THESE ACTIVITIES IMPACT ON THE OUTCOME OF THE COURSE?
 Providing a platform for students in solidifying understanding and reinforces the relevance of academic content.Industry visit allowed students to see how their academic interests align with real-world problems and solutions. Hence, it can motivate students to excel in their coursework.
 
- 3)DO YOU LEARN SOMETHING IMPACTFUL FROM THE ACTIVITY?
+#### 3)DO YOU LEARN SOMETHING IMPACTFUL FROM THE ACTIVITY?
 We learned about development of an app especially UTM SMART.  We are able to see how concepts in lectures are implemented in real-world settings.This  can be interesting and make coursework feel more relevant.
-4)DO YOU FEEL THAT VISITING THE ORGANIZATION AND ATTENDING THE TALK HELPS YOU LEARN THE COURSE MATERIAL BETTER? PROVIDE JUSTIFICATIONS.
+
+#### 4)DO YOU FEEL THAT VISITING THE ORGANIZATION AND ATTENDING THE TALK HELPS YOU LEARN THE COURSE MATERIAL BETTER? PROVIDE JUSTIFICATIONS.
 
 Yes. The industry visit provided a holistic learning experience, allowing students to see the bigger picture beyond lectures. This definitely give us an exposure towards our TIS course. It is not only can bridge the gap between knowledge but also enhancing the practical application.
 
-  5) DO THE ACTIVITIES SPARK EXCITEMENT IN THE STUDENT?
+ #### 5) DO THE ACTIVITIES SPARK EXCITEMENT IN THE STUDENT?
  Those activities offered real-world examples that can spark interest and enthusiasm among students. For example, the Q&A sessions during visit and talk allow students to clarify doubts and obtain a deeper understanding. Moreover,  this visit offered  a different learning experience can be refreshing. So,  it enhances engagement and excitement in the learning process.
 
 ## --> Assignment 3 : Report
