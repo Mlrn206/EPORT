@@ -14,7 +14,9 @@ The main point that wanted to deliver to us is ICT jobs scope. For instance, tho
 
 ##-> Assignment 2 : Video
 #### < INDUSTRY VISIT : UTM DIGITAL>
-#### Video : <video src="video%20tis.mp4" controls title="Title"></video>
+#### Video : [![Video](https://img.youtube.com/vi/https://youtu.be/ifQpbetzbc8/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/ifQpbetzbc8)
+
+
  ![VIRTUAL TALK](<Poster Talk on UTMDigital.jpeg>)			
  As a year 1 student from SECRH , i'm very appreciated having this golden oppurtunity to attend this virtual talk and industry visit to UTM Digital. On 5.12.2023, we had a virtual talk on UTM DIGITAL- OUR DIGITAL UNIVERSITY DRIVER from 3-5pm via Webex. The speaker,Mr Helmee bin Yaacob and his colleagues were delivering a fanstatic informative talk to all of us. It is really awesome! What we gained from the talk is UTM ID and know the ICT service for students.Besides, DIGITAL ARCHITECTURE, DIGITAL STRATEGY, AND DIGITAL INNOVATION ARE THE THREE PRIMARY DIVISIONS THAT MAKE UP UTM DIGITAL.DURING THE FIRST SESSION, MS. ALINDA BINTI MOHAMED ARIS DISCUSSED THE FUNDAMENTAL DUTIES OF UTM DIGITAL SERVICES WITH A PARTICULAR FOCUS ON THE CREATION OF TECHNOLOGICAL PLATFORMS AND APPLICATIONS.IN THE FOLLOWING SECTION. THE SPEAKER, TS.MR. MOHAMMED BIN MOHD HASNI GAVE A SUMMARY OF THE UTM DATA CENTER'S INFRASTRUCTURE AND CONSTRUCTION PROJECTS FROM 2008 TO 2019 by highlighting its standards WHICH INCLUDE PLENTY OF SPACE and STRONG SECURITY. Furthermore, On 11.12.2023, we had an industry visit to UTM Digital in Skudai, Johor. On that day, we were welcomed by some senior IT officers who are Madam Diniha Miskam and Madam Aslinda. All of the staff were extremely amiable to us. We had approximately 70 people who took part in it in order to know more about how UTM Digital works. Then, our group had an interview session with Encik Muhammad Syafiq who is a IT Officer that develop UTM SMART. Moreover,I have learned about their companies' background and the distributions they made in this technology era.
 	
