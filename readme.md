@@ -14,7 +14,7 @@ The main point that wanted to deliver to us is ICT jobs scope. For instance, tho
 
 ##-> Assignment 2 : Video
 #### < INDUSTRY VISIT : UTM DIGITAL>
-#### Video : [![Video](https://img.youtube.com/vi/https://youtu.be/ifQpbetzbc8/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/ifQpbetzbc8)
+#### Video : https://youtu.be/ifQpbetzbc8
 
 
  ![VIRTUAL TALK](<Poster Talk on UTMDigital.jpeg>)			
