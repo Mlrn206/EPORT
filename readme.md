@@ -133,6 +133,7 @@ Yes. The industry visit provided a holistic learning experience, allowing studen
 
  #### 5) DO THE ACTIVITIES SPARK EXCITEMENT IN THE STUDENT?
  Those activities offered real-world examples that can spark interest and enthusiasm among students. For example, the Q&A sessions during visit and talk allow students to clarify doubts and obtain a deeper understanding. Moreover,  this visit offered  a different learning experience can be refreshing. So,  it enhances engagement and excitement in the learning process.
+ #### To sum it up, I had the chance to observe various departments within UTM Digital. One of the most striking aspects was the data center. Witnessing the backbone for various digital services and applications, it provides a secure and controlled environment for critical IT operations.Hence,it was really fantastic for me! This visit also provided me a glimpse into the UTM Digital's corporate culture, emphasizing teamwork, innovation, and a commitment to excellence. This has inspired me to prioritize these values in my future endeavors.
 
 ## --> Assignment 3 : Report
 ####  For me, I would like to always be updated on the latest technologies and trends in system development by participating some related communities in the next 4 years. By joining some computer science and system development activities, I am able to gain handson experience and sharpen my weaknesses.
